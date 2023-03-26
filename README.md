@@ -1,5 +1,3 @@
-
-
 # 🚀 Frontend Development with Purple Beard
 
 ## Info
@@ -15,3 +13,4 @@ Cohort: FED306
 - [link](https://url.com)
 - [link](https://url.com)
 - [link](https://url.com)
+<!--  -->
