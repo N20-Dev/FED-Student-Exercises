@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+    <title>toTitleCase</title>
+  </head>
+  <body>
+    <div id="entry">
+      <form
+        action="textEntry"
+        method="get"
+        onsubmit="convertText(); return false;"
+      >
+        <label for="entry-box">Enter Lazy Author's Text:</label>
+        <input type="text" id="convert-box" placeholder="Enter Lazy Text" />
+        <button type="submit">Convert</button>
+      </form>
+      <p id="output"></p>
+    </div>
+    <script src="assets/app.js"></script>
+  </body>
+</html>
