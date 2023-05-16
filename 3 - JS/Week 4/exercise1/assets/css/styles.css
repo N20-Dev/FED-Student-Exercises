@@ -1,0 +1,37 @@
+body {
+  font-family: "Courier New", monospace;
+  background-color: #3c887e;
+  color: #e0f2e9;
+  text-align: center;
+  padding: 50px;
+}
+
+button {
+  background-color: #5b7b7a;
+  border: none;
+  color: #e0f2e9;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+p {
+  font-size: 20px;
+  color: #e0f2e9;
+  border: 2px dashed #5b7b7a;
+  padding: 10px;
+}
+
+input[type="checkbox"] {
+  transform: scale(1.5);
+  margin: 10px;
+}
+
+label {
+  font-size: 16px;
+}
